@@ -1,3 +1,15 @@
+## Introduction
+
+I am a self-taught AI and Machine Learning developer with hands-on experience in building end-to-end intelligent systems across Natural Language Processing, Deep Learning, Time-Series Analysis, Computer Vision, and AI-powered automation workflows.
+
+My work focuses on designing and implementing production-style machine learning pipelines, including data preprocessing, feature engineering, model development, evaluation, and deployment-ready system design. I have developed multiple real-world projects involving transformer-based architectures, traditional machine learning models, and retrieval-augmented generation (RAG) systems integrated with large language models.
+
+Over time, I have worked on a diverse range of AI applications including sentiment analysis systems, multi-label emotion recognition using BERT, financial anomaly detection systems, customer segmentation models, speech emotion recognition, credit risk prediction systems, and agentic AI automation workflows.
+
+My approach is strongly engineering-oriented, with emphasis on clean architecture, modular pipelines, and practical deployment considerations rather than just model training. I focus on building systems that solve real-world problems and can scale beyond experimental prototypes.
+
+This portfolio documents my applied work in AI/ML engineering, demonstrating my ability to independently design, develop, and implement end-to-end machine learning and AI systems using modern tools and frameworks.
+
 # Featured Projects
 
 ---
